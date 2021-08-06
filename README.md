@@ -1,2 +1,2 @@
-#APP Screen Shot:
+##APP Screen Shot
 !["password-generator"](./app-screen.png)
